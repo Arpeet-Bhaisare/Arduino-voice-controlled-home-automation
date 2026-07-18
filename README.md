@@ -97,7 +97,7 @@ arduino-voice-controlled-home-automation
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/arduino-voice-controlled-home-automation.git
+git clone https://github.com/Arpeet-Bhaisare/Arduino-voice-controlled-home-automation.git
 ```
 
 ### 2. Open Arduino IDE
