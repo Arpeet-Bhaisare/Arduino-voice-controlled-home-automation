@@ -8,6 +8,12 @@ The project was developed as a Major Project for the Bachelor of Technology degr
 
 ---
 
+### Circuit Diagram
+
+![Circuit Diagram](images/circuit-diagram.png)
+
+---
+
 ## 🚀 Features
 
 * Voice-controlled appliance management
