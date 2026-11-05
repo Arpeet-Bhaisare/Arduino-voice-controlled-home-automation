@@ -16,7 +16,7 @@ The project was developed as a Major Project for the Bachelor of Technology degr
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/images/Circuit-diagram.webp)
+![Circuit diagram](images/images/Circuit-diagram.webp)
 
 ### Project Demo
 
