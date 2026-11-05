@@ -8,9 +8,19 @@ The project was developed as a Major Project for the Bachelor of Technology degr
 
 ---
 
+## Project Overview
+
+### Block Diagram
+
+![Block Diagram](images/block-diagram.png)
+
 ### Circuit Diagram
 
 ![Circuit Diagram](images/Circuit-diagram.webp) 
+
+### Project Demo
+
+![Project Demo](images/circuit-diagraqm.png)
 
 ---
 
