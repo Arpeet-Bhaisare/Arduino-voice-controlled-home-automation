@@ -1,5 +1,12 @@
 # 🏠 Arduino Voice Controlled Home Automation
 
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-HC--05-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Voice-controlled home automation system using Arduino Uno, HC-05 Bluetooth Module, Relay Module, and Android voice commands.
+
 ## 📌 Overview
 
 This project presents a **Voice Controlled Home Automation System** developed using **Arduino Uno**, **HC-05 Bluetooth Module**, and **Relay Modules**. The system allows users to control home appliances through voice commands sent from an Android smartphone.
