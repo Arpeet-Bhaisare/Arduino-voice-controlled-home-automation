@@ -12,15 +12,15 @@ The project was developed as a Major Project for the Bachelor of Technology degr
 
 ### Block Diagram
 
-![A circuit diagram](images/block-diagram.png)
+![Block Diagram](images/block-diagram.png)
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/Circuit-diagram.webp) 
+![Circuit Diagram](images/circuit-diagram.webp)
 
 ### Project Demo
 
-![Project Demo](images/circuit-diagraqm.png)
+![Project Demo](images/ciorcuit-diagram.png)
 
 ---
 
