@@ -12,7 +12,7 @@ The project was developed as a Major Project for the Bachelor of Technology degr
 
 ### Block Diagram
 
-![Block Diagram](images/block-diagram.png)
+![A circuit diagram](images/block-diagram.png)
 
 ### Circuit Diagram
 
